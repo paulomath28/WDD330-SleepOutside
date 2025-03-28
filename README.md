@@ -1,12 +1,16 @@
 BYU-Pathway Worldwide Online
+
 WDD 330 - Web Frontend Development II
+
 ⛺ SleepOutside Starter Code
+
 This repository is the start of the SleepOutside web application project for WDD 330. The repository contains branches which are checkpoints for the team and individual assignments throughout the course.
 
 https://byui-cse.github.io/wdd330-ww-course/week01/team.html
 
 Prerequisites
 You must have Node installed to run the following commands. WDD 330 Setup Environment
+
 Common Workflow Commands
 npm run lint to run ESLint against your code to find errors.
 npm run format to run Prettier to automatically format your code.
